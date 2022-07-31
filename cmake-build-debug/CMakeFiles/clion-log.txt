@@ -1,0 +1,4 @@
+Cygwin not found at: C:\cygwin64 Configure
+
+Cannot get compiler information:
+	Cannot run program "C:\cygwin64\bin\gcc.exe" (in directory "C:\Users\Pinkgodzilla\CLionProjects\untitled1\cmake-build-debug"): CreateProcess error=2, The system cannot find the file specified
